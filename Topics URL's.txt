@@ -1,0 +1,32 @@
+URL's for topics
+
+PDF :  https://www.youtube.com/watch?v=jUFbY5u-DMs
+
+MDS (Multi-Dimensional Scaling) : https://www.youtube.com/watch?v=GEn-_dAyYME&t=30s
+Focuses on preserving the distance
+
+LDA : https://www.youtube.com/watch?v=azXCzI57Yfc 
+It focuses on maximising distance and minimising the scatter.
+U1 - U2 / S1 + S2 
+
+How RF handels missing values?
+1.) Proximity Matrix technique: Initial guessing => Fit the data on train set => Build proximity matrix = > Refine missing values by weighted calculations.
+Repeat the same steps until no change found. https://www.youtube.com/watch?v=sQ870aTKqiM
+2.) MICE technique
+
+
+DBSCAN :  https://www.youtube.com/watch?v=C3r7tGRe2eI
+
+BERT :
+	  Explanation: https://www.youtube.com/watch?v=7kLi8u2dJz0&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&index=46
+	  Using prebuilt BERT model:  https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/46_BERT_intro/bert_intro.ipynb
+	  Article: http://jalammar.github.io/illustrated-bert/
+	  
+Transformers :
+	Reference Link: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2dxQ2tZN1RXeHc4TmFEMERHcVcxNW5ZS3NXd3xBQ3Jtc0treDdLVkNBV2VCYU4xNTM4WFJKTlZybUlZOEJyRmlUbnpsTFFBeXFpRlo1TThvSmRqVGx3dWJTR0tFMzFZVjRDcWZoOXJ5MU9LSF8tZ0dUVnRSVC1Xei1Eem1xMXN6N0VnYmRGZDZ1UWxZUVdEem1uZw&q=http%3A%2F%2Fjalammar.github.io%2Fillustrated-transformer%2F&v=SMZQrJ_L1vo
+	Research Paper: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+
+Smote and Adasyn : https://www.youtube.com/watch?v=mKG7lnZNAOk
+
+Lightgbm : https://www.youtube.com/watch?v=n_ZMQj09S6w
